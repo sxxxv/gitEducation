@@ -1,0 +1,2 @@
+# gitEducation
+For student projects
